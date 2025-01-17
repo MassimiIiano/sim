@@ -1,0 +1,103 @@
+{
+  "routes": {
+    "titles": {
+      "devices": "Devices",
+      "preferences": "Preferences",
+      "not-found": "Not found"
+    },
+    "descriptions": {
+      "root": "A PWA used by Lifeware to mangle Java code into the Smalltalk RPC code",
+      "mangle": "This page allows you to mangle Java code into the Smalltalk RPC code",
+      "preferences": "This page allows you to change the preferences of the PWA"
+    }
+  },
+  "menu": {
+    "search": "Search",
+    "version": "Version",
+    "pages": {
+      "devices": "Devices"
+    }
+  },
+  "preferences": {
+    "title": "Preferences",
+    "colorPalette": {
+      "title": "Color palette",
+      "primary": "Primary",
+      "secondary": "Secondary",
+      "success": "Success",
+      "info": "Info",
+      "warning": "Warning",
+      "error": "Error",
+      "background": "Background",
+      "surface": "Surface"
+    },
+    "transitions": {
+      "title": "Transitions",
+      "fade": "Fade",
+      "scale": "Scale",
+      "expand": "Expand",
+      "slideX": "Slide X",
+      "slideY": "Slide Y"
+    },
+    "barButtons": {
+      "title": "Bar buttons",
+      "darkMode": "Dark Mode",
+      "primaryColor": "Primary Color",
+      "routeTransition": "Route Transition",
+      "networkStatus": "Network status",
+      "pageInfo": "Page Info",
+      "language": "Language"
+    },
+    "language": {
+      "en": "English",
+      "it": "Italian"
+    },
+    "importExport": {
+      "title": "Import and export preferences",
+      "import": "Import",
+      "export": "Export"
+    },
+    "reset": "Reset"
+  },
+  "notifications": {
+    "clipboard": {
+      "success": "Text copied to clipboard",
+      "error": "Failed to copy to clipboard"
+    },
+    "networkStatus": {
+      "status": {
+        "online": "Online",
+        "offline": "Offline",
+        "unknown": "Connecting"
+      },
+      "messages": {
+        "success": "The app is online",
+        "error": "The app is offline"
+      }
+    },
+    "dialogs": {
+      "page-info": {
+        "title": "Page information"
+      }
+    },
+    "actions": {
+      "close": "Close"
+    }
+  },
+  "views": {
+    "devices": {
+      "title": "Devices",
+      "search": "Search",
+      "columns": {
+        "mac-address": "MAC Address",
+        "private-ip": "Private IP",
+        "model-name": "Model",
+        "vulnerabilities": "Vulnerabilities"
+      }
+    },
+    "not-found": {
+      "text": "The page {path} has not been found",
+      "go-back": "Back to home"
+    }
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "routes": {
+    "titles": {
+      "devices": "Dispositivi",
+      "preferences": "Preferenze",
+      "not-found": "Pagina non trovata"
+    },
+    "descriptions": {
+      "root": "Una PWA usata da Lifeware per tradurre del codice Java nel rispettivo codice RPC per Smalltalk",
+      "mangle": "Questa pagina ti permette di tradurre del codice Java nel rispettivo codice RPC per Smalltalk",
+      "preferences": "Questa pagina ti permette di cambiare le preferenze della PWA"
+    }
+  },
+  "menu": {
+    "search": "Cerca",
+    "version": "Versione",
+    "pages": {
+      "devices": "Dispositivi"
+    }
+  },
+  "preferences": {
+    "title": "Preferenze",
+    "colorPalette": {
+      "title": "Colori",
+      "primary": "Primario",
+      "secondary": "Secondario",
+      "success": "Succ",
+      "info": "Info",
+      "warning": "Warn",
+      "error": "Errore",
+      "background": "Sfondo",
+      "surface": "Superficie"
+    },
+    "transitions": {
+      "title": "Transizioni",
+      "fade": "Dissolvenza",
+      "scale": "Dimensione",
+      "expand": "Espansione",
+      "slideX": "Scorrimento X",
+      "slideY": "Scorrimento Y"
+    },
+    "barButtons": {
+      "title": "Bottoni della barra",
+      "darkMode": "Notturna",
+      "primaryColor": "Colore primario",
+      "routeTransition": "Transizione schermata",
+      "networkStatus": "Stato connessione",
+      "pageInfo": "Info pagina",
+      "language": "Lingua"
+    },
+    "language": {
+      "en": "Inglese",
+      "it": "Italiano"
+    },
+    "importExport": {
+      "title": "Importa ed esporta preferenze",
+      "import": "Importa",
+      "export": "Esporta"
+    },
+    "reset": "Ripristina"
+  },
+  "notifications": {
+    "clipboard": {
+      "success": "Testo copiato negli appunti",
+      "error": "Testo non copiato negli appunti"
+    },
+    "networkStatus": {
+      "status": {
+        "online": "Online",
+        "offline": "Offline",
+        "unknown": "In verifica"
+      },
+      "messages": {
+        "success": "Connesso alla rete",
+        "error": "Nessuna connessione"
+      }
+    },
+    "dialogs": {
+      "page-info": {
+        "title": "Informazioni pagina"
+      }
+    },
+    "actions": {
+      "close": "Chiudi"
+    }
+  },
+  "views": {
+    "devices": {
+      "title": "Dispositivi",
+      "search": "Cerca",
+      "columns": {
+        "mac-address": "Indirizzo MAC",
+        "private-ip": "IP privato",
+        "model-name": "Modello",
+        "vulnerabilities": "Vulnerabilità"
+      }
+    },
+    "not-found": {
+      "text": "La pagina {path} non è stata trovata",
+      "go-back": "Torna alla home"
+    }
+  }
+}
