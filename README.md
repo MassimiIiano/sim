@@ -1,3 +1,7 @@
+# Important info
+
+This projekt was created during the 2024 NOI Hackathon in colaboration with [@euberdeveloper](https://github.com/euberdeveloper)
+
 # SIM - Security in Mind
 SIM is a software to detect vulnerable devices in the local network.
 
